@@ -4,6 +4,7 @@
 target
 target/*
 .svn
+.consulo/
 src/**/nbproject/private
 plugins/netbeans/org-enclojure-plugin/release/*
 plugins/netbeans/org-enclojure-plugin/build/*
